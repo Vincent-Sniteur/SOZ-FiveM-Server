@@ -55,7 +55,7 @@
         "@egoist/router": "^1.2.3",
         "@headlessui/react": "^1.7.14",
         "@heroicons/react": "^1.0.6",
-        "@prisma/client": "^5.0.0",
+        "@prisma/client": "^5.7.1",
         "@reach/descendants": "^0.17.0",
         "@rematch/core": "^2.2.0",
         "axios": "^1.2.1",
