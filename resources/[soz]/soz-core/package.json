@@ -58,7 +58,7 @@
         "@prisma/client": "^5.15.1",
         "@reach/descendants": "^0.18.0",
         "@rematch/core": "^2.2.0",
-        "axios": "^1.7.2",
+        "axios": "^1.7.8",
         "classnames": "^2.5.1",
         "date-fns": "^3.6.0",
         "fast-json-patch": "^3.1.1",
