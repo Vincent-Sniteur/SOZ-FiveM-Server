@@ -65,7 +65,7 @@
         "inter-ui": "^4.0.2",
         "inversify": "^6.0.2",
         "p-cancelable": "^4.0.1",
-        "postcss": "^8.4.38",
+        "postcss": "^8.5.0",
         "prom-client": "^15.1.2",
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
