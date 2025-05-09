@@ -77,7 +77,7 @@
         "emoji-mart": "^5.6.0",
         "fast-json-patch": "^3.1.1",
         "howler": "^2.2.4",
-        "i18next": "^24.2.0",
+        "i18next": "^24.2.3",
         "inter-ui": "^4.0.2",
         "inversify": "^6.0.2",
         "jotai": "^2.10.2",
