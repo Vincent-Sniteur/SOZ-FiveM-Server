@@ -445,4 +445,6 @@ export enum RpcClientEvent {
     FIRE_GET_WIND_DATA = 'soz-core:fire:get-wind-data',
     FIRE_GET_Z = 'soz-core:fire:get-z',
     WHAT_IF_SPAWN_PEDS = 'soz-core:what-if:spawn-peds',
+
+    HORSE_GET_STATE = 'soz-core:rpc:horse:get-state',
 }

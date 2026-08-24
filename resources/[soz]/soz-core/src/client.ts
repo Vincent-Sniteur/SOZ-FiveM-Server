@@ -7,6 +7,7 @@ import { AdminModule } from './client/admin/admin.module';
 import { AfkModule } from './client/afk/afk.module';
 import { AimModule } from './client/aim/aim.module';
 import { AnimalModule } from './client/animal/animal.module';
+import { HorseModule } from './client/horse/horse.module';
 import { AnimationModule } from './client/animation/animation.module';
 import { BankModule } from './client/bank/bank.module';
 import { BillboardModule } from './client/billboard/billboard.module';
@@ -145,6 +146,7 @@ async function bootstrap() {
         GamesModule,
         LocationModule,
         AnimalModule,
+        HorseModule,
         ...PrivateModules
     );
 

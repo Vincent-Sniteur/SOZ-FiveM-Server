@@ -884,4 +884,12 @@ export enum ServerEvent {
     PET_ADMIN_JOB_SET_DATA = 'soz-core:server:pet:admin-job-set-data',
     PET_ADMIN_JOB_SET_PER_DAYS = 'soz-core:server:pet:admin-job-set-per-days',
     PET_ADMIN_JOB_RESET_PER_DAYS = 'soz-core:server:pet:admin-job-reset-per-days',
+
+    HORSE_SPAWNED = 'soz-core:server:horse:spawned',
+    HORSE_DESPAWNED = 'soz-core:server:horse:despawned',
+    HORSE_MOUNT_REQUEST = 'soz-core:server:horse:mount-request',
+    HORSE_MOUNTED = 'soz-core:server:horse:mounted',
+    HORSE_DISMOUNTED = 'soz-core:server:horse:dismounted',
+    HORSE_DIED = 'soz-core:server:horse:died',
+    HORSE_ENTITY_LOST = 'soz-core:server:horse:entity-lost',
 }

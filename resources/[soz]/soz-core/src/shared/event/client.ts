@@ -534,4 +534,11 @@ export enum ClientEvent {
     PET_SYNC_JOB_ANIMAL = 'soz-core:client:pet:sync-job-animal',
     PET_SHOP_ABANDON_ANIMAL = 'soz-core:client:pet:shop-abandon-animal',
     PET_SHOP_NAME_ANIMAL = 'soz-core:client:pet:shop-name-animal',
+
+    HORSE_SPAWN = 'soz-core:client:horse:spawn',
+    HORSE_DESPAWN = 'soz-core:client:horse:despawn',
+    HORSE_SYNC_STATE = 'soz-core:client:horse:sync-state',
+    HORSE_RIDER_APPEARANCE = 'soz-core:client:horse:rider-appearance',
+    HORSE_RIDER_REMOVE = 'soz-core:client:horse:rider-remove',
+    HORSE_DESPAWN_SYNC = 'soz-core:client:horse:despawn-sync',
 }

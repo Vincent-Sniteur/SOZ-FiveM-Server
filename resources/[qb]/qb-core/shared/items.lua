@@ -25240,6 +25240,16 @@ QBShared.Items = {
         ["illustrator"] = ".Sniteur",
         ["description"] = "Un jus épais et sucré, pressé à partir de baies rares trouvées au plus profond des bois. Une gorgée suffit à redonner des forces.",
     },
+    ["cravache"] = {
+        ["name"] = "cravache",
+        ["label"] = "Cravache",
+        ["weight"] = 250,
+        ["type"] = "item",
+        ["unique"] = true,
+        ["useable"] = true,
+        ["shouldClose"] = true,
+        ["description"] = "Une solide cravache en cuir. Un outil essentiel pour tout cavalier.",
+    },
     ["whistle_basic"] = {
         ["name"] = "whistle_basic",
         ["label"] = "Sifflet de dressage basique",
