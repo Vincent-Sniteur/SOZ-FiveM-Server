@@ -1,4 +1,4 @@
-import { OnEvent, Once } from '@core/decorators/event';
+import { On, OnEvent, Once } from '@core/decorators/event';
 import { Inject } from '@core/decorators/injectable';
 import { Provider } from '@core/decorators/provider';
 import { Rpc } from '@core/decorators/rpc';
@@ -208,4 +208,3 @@ export class HorseProvider {
         return this.horsesByCitizenId.get(player.citizenid)?.state ?? HorseState.Despawned;
     }
 }
-
